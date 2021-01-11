@@ -6,6 +6,12 @@ The task was such: givin an image, and known image scale, User want to measure d
 
 for finding the center of the circle, I referenced geeksforgeeks's method : https://www.geeksforgeeks.org/equation-of-circle-when-three-points-on-the-circle-are-given/
 
-This code right now is set up for Zeiss smartzoom 5 using 37x, 70x, and 100x. the software will automaticlly find the image scale and begine measurement, for other microscope image, please define your own units as in pixel per micron.
+Zeiss smartzoom 5 : https://www.zeiss.com/microscopy/us/products/imaging-systems/smartzoom-5.html
+
+This code right now is set up for Zeiss smartzoom 5 using 37x, 70x, and 100x. the software will automaticlly find the image scale and begin measurement, for other microscope image, please define your own image scale(sample rates) units as in pixel per micron.
 
 ![](cv2/cal1.jpg)
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
