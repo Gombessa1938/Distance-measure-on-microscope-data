@@ -10,7 +10,7 @@ Zeiss smartzoom 5 : https://www.zeiss.com/microscopy/us/products/imaging-systems
 
 This code right now is set up for Zeiss smartzoom 5 using 37x, 70x, and 100x. the software will automaticlly find the image scale and begin measurement, for other microscope image, please define your own image scale(sample rates) units as in pixel per micron.
 
-![](cv2/cal1.jpg)
+![](img.PNG)
 
 
 ## Contributing
