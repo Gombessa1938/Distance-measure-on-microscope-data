@@ -8,3 +8,4 @@ for finding the center of the circle, I referenced geeksforgeeks's method : http
 
 This code right now is set up for Zeiss smartzoom 5 using 37x, 70x, and 100x. the software will automaticlly find the image scale and begine measurement, for other microscope image, please define your own units as in pixel per micron.
 
+![](cv2/cal1.jpg)
